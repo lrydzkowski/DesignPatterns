@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DesignPatterns.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "run Singleton"
+    }
+  }
+}
