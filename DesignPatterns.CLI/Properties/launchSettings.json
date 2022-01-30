@@ -2,7 +2,7 @@
   "profiles": {
     "DesignPatterns.CLI": {
       "commandName": "Project",
-      "commandLineArgs": "run Singleton"
+      "commandLineArgs": "run Decorator"
     }
   }
 }
